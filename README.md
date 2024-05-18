@@ -4,19 +4,9 @@
 This project involves the design and implementation of a single cycle processor. A single cycle processor is a type of CPU architecture where each instruction is completed in a single clock cycle. This makes it simpler to design and understand compared to multi-cycle or pipelined processors. This README provides an overview of the project, its structure, and instructions on how to set up and run the processor simulation.
 
 ## Table of Contents
-1. [Project Structure](#project-structure)
-2. [Features](#features)
-3. [Requirements](#requirements)
-4. [Setup and Installation](#setup-and-installation)
-5. [Running the Simulation](#running-the-simulation)
-6. [File Descriptions](#file-descriptions)
-7. [Testing](#testing)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
-
-## Project Structure
-
+1. [Features](#features)
+2. [Requirements](#requirements)
+3. [Setup and Installation](#setup-and-installation)
 
 ## Features
 - **Single Cycle Execution**: Each instruction is executed in one clock cycle.
